@@ -13,5 +13,5 @@ quod turpe non sit. Duo Reges: constructio interrete. Quid, cum fictas fabulas, 
 ## More Information:
 https://a2i2.github.io/ese/
 
-![](2021/Flyer/logos.png)
+![](2021/Flyer/logos-glow.png)
 
