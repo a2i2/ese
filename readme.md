@@ -5,10 +5,7 @@
 
 ## About this workshop:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fortasse id optimum, sed ubi illud: Plus semper voluptatis? Hic,
-qui utrumque probat, ambobus debuit uti, sicut facit re, neque tamen dividit verbis. Numquam hoc ita defendit Epicurus neque
-Metrodorus aut quisquam eorum, qui aut saperet aliquid aut ista didicisset. Quae cum ita sint, effectum est nihil esse malum,
-quod turpe non sit. Duo Reges: constructio interrete. Quid, cum fictas fabulas, e quibus utilitas nulla elici potest, cum voluptate legimus
+Epirical Software Engineering Workshop aims to train Masters and PhD students with applied skills. This workshop has been conducted in collaboration between Applied Artificial Intelligence Institute from Deakin University (Melbourne - Australia) and the Software Engineering Research Group from TU Delft University (Delft, Netherlands)
 
 ## More Information:
 https://a2i2.github.io/ese/
