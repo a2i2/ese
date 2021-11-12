@@ -21,11 +21,10 @@
 title: ESE Workshop
 description: >- # this means to ignore newlines until "baseurl:"
   A²I²/TU Delft Empirical Software Engineering Symposium
-
 baseurl: "/ese" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: deakina2i2
+github_username:  a2i2
 
 # Build settings
 theme: jekyll-theme-architect
