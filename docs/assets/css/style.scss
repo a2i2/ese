@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-architect";
+@import "{{ site.theme }}";
 
 th { font-weight: bold; }
 th, td { text-align: left; }
