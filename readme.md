@@ -5,7 +5,7 @@
 
 ## About this workshop:
 
-Epirical Software Engineering Workshop aims to train Masters and PhD students with applied skills. This workshop has been conducted in collaboration between Applied Artificial Intelligence Institute from Deakin University (Melbourne - Australia) and the Software Engineering Research Group from TU Delft University (Delft, Netherlands)
+Empirical Software Engineering Workshop aims to train Masters and PhD students with applied skills. This workshop has been conducted in collaboration between Applied Artificial Intelligence Institute from Deakin University (Melbourne - Australia) and the Software Engineering Research Group from TU Delft University (Delft, Netherlands)
 
 ## More Information:
 https://a2i2.github.io/ese/
