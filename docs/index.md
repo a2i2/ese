@@ -4,7 +4,10 @@
 
 layout: default
 ---
-## Welcome to Empirical Software Engineering Workshop
+## Welcome to the Empirical Software Engineering Workshop
+
+Empirical Software Engineering Workshop aims to train Masters and PhD students with applied skills. This workshop has been conducted in collaboration between Applied Artificial Intelligence Institute from Deakin University (Melbourne - Australia) and the Software Engineering Research Group from TU Delft University (Delft, Netherlands)
+
 
 ## Day 1
 
@@ -28,16 +31,18 @@ layout: default
 
 ## Day 2
 
-| AEDT  | CET   | Presenters / Activity         |
-|-------|-------|-------------------------------|
-| 18:30 | 8:30  | Scott Barnett (Overview)      |
-| 18:45 | 8:45  | Brainstorming session 1       |
-| 19:30 | 9:30  | Regroup                       |
-| 19:45 | 9:45  | Brainstorming session 2       |
-| 20:30 | 10:30 | Rena (Pitch Session)          |
-| 21:30 | 11:30 | Luís Cruz (Wrap up day 2)     |
+| AEDT  | CET   | Presenters / Activity          |
+|-------|-------|--------------------------------|
+| 18:30 | 8:30  | Scott Barnett (Overview)       |
+| 18:45 | 8:45  | Brainstorming session 1        |
+| 19:30 | 9:30  | Regroup                        |
+| 19:45 | 9:45  | Brainstorming session 2        |
+| 20:30 | 10:30 | Rena Logothetis (Pitch Session)|
+| 21:30 | 11:30 | Luís Cruz (Wrap up day 2)      |
 
 
 ## Pitches
 
 This part is up to you!
+
+* [Group 1](group1)
