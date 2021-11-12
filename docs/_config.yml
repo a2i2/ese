@@ -20,7 +20,7 @@
 
 title: ESE Workshop
 description: >- # this means to ignore newlines until "baseurl:"
-  A²I²/TU Delft Empirical Software Engineering Symposium (Nov 16 2021)
+  A²I²/TU Delft Empirical Software Engineering Symposium (Nov 16-17 2021)
 
 baseurl: "/ese" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

@@ -11,7 +11,7 @@ layout: default
 
 | AEDT  | CET   | Presenters                    |
 |-------|-------|-------------------------------|
-| 18:30 | 8:30  | Scott Barnett                 |
+| 18:30 | 8:30  | Scott Barnett (Welcome)       |
 | 18:45 | 8:45  | Session chair: Andrew Simmons |
 | 19:00 | 9:00  | Shangeetha Sivasothy          |
 | 19:15 | 9:15  | Arumoy Shome                  |
@@ -23,7 +23,21 @@ layout: default
 | 20:45 | 10:45 | Jai Kannan                    |
 | 21:00 | 11:00 | Haiyin Zhang                  |
 | 21:15 | 11:15 | -                             |
-| 21:30 | 11:30 | Luis Cruz                     |
+| 21:30 | 11:30 | Luís Cruz (Wrap up day 1)     |
 
 
 ## Day 2
+
+| AEDT  | CET   | Presenters / Activity         |
+|-------|-------|-------------------------------|
+| 18:30 | 8:30  | Scott Barnett (Overview)      |
+| 18:45 | 8:45  | Brainstorming session 1       |
+| 19:30 | 9:30  | Regroup                       |
+| 19:45 | 9:45  | Brainstorming session 2       |
+| 20:30 | 10:30 | Rena (Pitch Session)          |
+| 21:30 | 11:30 | Luís Cruz (Wrap up day 2)     |
+
+
+## Pitches
+
+This part is up to you!
