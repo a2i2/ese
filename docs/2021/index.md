@@ -45,6 +45,4 @@ Please find the presentation timetable for the first day of the Empirical Softwa
 
 ## Pitches
 
-*This part is up to you! Submit a PR for your group*
-
-* [Group 1](group1)
+*This part is up to you! Submit an issue to this repository containing your ideas*
